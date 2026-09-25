@@ -1,0 +1,10 @@
+
+.aws/
+.ssh/
+.cache/
+.config/
+.docker/
+.kube/
+*.zip
+*.tar.gz
+node_modules/
